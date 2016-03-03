@@ -1,4 +1,4 @@
-FROM python:3.4.4
+FROM python:2.7
 MAINTAINER dn-devops@sixt.com
 
 COPY . /usr/src/app
