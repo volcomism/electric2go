@@ -1,5 +1,5 @@
-FROM: python:3.4.4
-MAINTAINER: dn-devops@sixt.com
+FROM python:3.4.4
+MAINTAINER dn-devops@sixt.com
 
 COPY . /usr/src/app
 
