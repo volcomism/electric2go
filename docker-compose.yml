@@ -1,0 +1,4 @@
+electric2go:
+  build : .
+  log_driver: json
+
